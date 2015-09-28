@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FactorySingleton:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/FactorySingleton_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="FactorySingleton/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="FactorySingleton" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
